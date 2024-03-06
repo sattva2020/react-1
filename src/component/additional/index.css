@@ -1,0 +1,17 @@
+.additional {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.additional__info {
+  display: grid;
+  gap: 24px;
+}
+
+.additional__box {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
